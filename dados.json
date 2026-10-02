@@ -66,27 +66,6 @@
  ],
  "prods": [
   {
-   "id": "p2",
-   "n": "Conjunto Jeans Feminino",
-   "c": "c2",
-   "p": 129.9,
-   "pp": 0,
-   "d": "Conjunto jeans feminino, modelagem confortável.",
-   "m": "",
-   "ph": [],
-   "sz": {
-    "M": 2,
-    "G": 4
-   },
-   "cl": [],
-   "st": 1,
-   "fl": {
-    "nv": 1,
-    "mv": 0,
-    "lc": 1
-   }
-  },
-  {
    "id": "p3",
    "n": "Cropped Canelado",
    "c": "c4",
