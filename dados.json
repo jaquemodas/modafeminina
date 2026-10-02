@@ -66,6 +66,30 @@
  ],
  "prods": [
   {
+   "id": "pmurmdm9z",
+   "n": "Conjunto rosa pra sair",
+   "c": "c1",
+   "p": 160,
+   "pp": 89,
+   "d": "Conjunto básico pra sair",
+   "m": "",
+   "ph": [
+    "fotos/murmdv2j2ihd.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "lc": 0,
+    "mv": 1
+   },
+   "sz": {
+    "TAMANHO ÚNICO": 10
+   },
+   "cl": [
+    "Rosa"
+   ]
+  },
+  {
    "id": "pmurlkysn",
    "n": "Bermuda com Strass",
    "c": "c5",
