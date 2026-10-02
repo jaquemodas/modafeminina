@@ -66,6 +66,32 @@
  ],
  "prods": [
   {
+   "id": "pmurlkysn",
+   "n": "Bermuda com Strass",
+   "c": "c5",
+   "p": 130,
+   "pp": 98,
+   "d": "",
+   "m": "",
+   "ph": [
+    "fotos/murlo11s1o01.jpg",
+    "fotos/murlo0zwv6k1.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "lc": 0,
+    "mv": 1
+   },
+   "sz": {
+    "36": 10,
+    "44": 1
+   },
+   "cl": [
+    "Jeans"
+   ]
+  },
+  {
    "id": "pmurlb2w5",
    "n": "Vestido Alfaiataria",
    "c": "c1",
