@@ -66,6 +66,31 @@
  ],
  "prods": [
   {
+   "id": "pmurlb2w5",
+   "n": "Vestido Alfaiataria",
+   "c": "c1",
+   "p": 180,
+   "pp": 120,
+   "d": "✨ Conjunto perfeito para quem ama um look feminino, leve e cheio de charme!\n\nO cropped estampado traz um toque moderno, enquanto a saia longa com fenda e detalhes florais deixa a produção delicada e elegante. 🌷",
+   "m": "",
+   "ph": [
+    "fotos/murlfrx657es.jpg",
+    "fotos/murlfrz60opt.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "lc": 1,
+    "mv": 0
+   },
+   "sz": {
+    "TAMANHO ÚNICO": 10
+   },
+   "cl": [
+    "Azul"
+   ]
+  },
+  {
    "id": "pmurkpozi",
    "n": "Vestido com detalhes em cambraia",
    "c": "c1",
