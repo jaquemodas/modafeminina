@@ -64,31 +64,5 @@
    "cat": "c1"
   }
  ],
- "prods": [
-  {
-   "id": "p3",
-   "n": "Cropped Canelado",
-   "c": "c4",
-   "p": 79.9,
-   "pp": 59.9,
-   "d": "Cropped canelado básico, macio e versátil.",
-   "m": "",
-   "ph": [],
-   "sz": {
-    "P": 5,
-    "M": 5,
-    "G": 2
-   },
-   "cl": [
-    "Preto",
-    "Branco"
-   ],
-   "st": 1,
-   "fl": {
-    "nv": 0,
-    "mv": 1,
-    "lc": 0
-   }
-  }
- ]
+ "prods": []
 }
