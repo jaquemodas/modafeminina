@@ -64,5 +64,31 @@
    "cat": ""
   }
  ],
- "prods": []
+ "prods": [
+  {
+   "id": "pmurkpozi",
+   "n": "Vestido com detalhes em cambraia",
+   "c": "c1",
+   "p": 90,
+   "pp": 120,
+   "d": "Vestido curto com detalhes em cambraia delicado, feminino cheio de charmes 💗",
+   "m": "",
+   "ph": [
+    "fotos/murkuf4t78yv.jpg",
+    "fotos/murkun4tg9rc.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "lc": 0,
+    "mv": 1
+   },
+   "sz": {
+    "TAMANHO ÚNICO": 10
+   },
+   "cl": [
+    "Rosa"
+   ]
+  }
+ ]
 }
