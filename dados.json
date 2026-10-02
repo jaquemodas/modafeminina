@@ -1,0 +1,115 @@
+{
+ "cfg": {
+  "wa": "",
+  "free": 299,
+  "pix": 5,
+  "par": 3,
+  "ig": "jaque_modas_ofc21",
+  "addr": "Jaderlândia 1, Rua União, Box 4, em frente à nova feira.",
+  "h1": "Terça a sábado: 08:00 às 19:30",
+  "h2": "Domingo: 08:00 às 12:30"
+ },
+ "cats": [
+  {
+   "id": "c1",
+   "n": "Vestidos"
+  },
+  {
+   "id": "c2",
+   "n": "Conjuntos"
+  },
+  {
+   "id": "c3",
+   "n": "Blusas"
+  },
+  {
+   "id": "c4",
+   "n": "Croppeds"
+  },
+  {
+   "id": "c5",
+   "n": "Shorts"
+  },
+  {
+   "id": "c6",
+   "n": "Saias"
+  },
+  {
+   "id": "c7",
+   "n": "Calças Jeans"
+  },
+  {
+   "id": "c8",
+   "n": "Moda Plus Size"
+  },
+  {
+   "id": "c9",
+   "n": "Bolsas"
+  },
+  {
+   "id": "c10",
+   "n": "Sandálias"
+  },
+  {
+   "id": "c11",
+   "n": "Acessórios"
+  }
+ ],
+ "bans": [
+  {
+   "id": "b1",
+   "t": "Nova Coleção",
+   "s": "Moda feminina com a sua cara",
+   "img": "",
+   "cat": "c1"
+  }
+ ],
+ "prods": [
+  {
+   "id": "p2",
+   "n": "Conjunto Jeans Feminino",
+   "c": "c2",
+   "p": 129.9,
+   "pp": 0,
+   "d": "Conjunto jeans feminino, modelagem confortável.",
+   "m": "",
+   "ph": [],
+   "sz": {
+    "M": 2,
+    "G": 4
+   },
+   "cl": [],
+   "st": 1,
+   "fl": {
+    "nv": 1,
+    "mv": 0,
+    "lc": 1
+   }
+  },
+  {
+   "id": "p3",
+   "n": "Cropped Canelado",
+   "c": "c4",
+   "p": 79.9,
+   "pp": 59.9,
+   "d": "Cropped canelado básico, macio e versátil.",
+   "m": "",
+   "ph": [],
+   "sz": {
+    "P": 5,
+    "M": 5,
+    "G": 2
+   },
+   "cl": [
+    "Preto",
+    "Branco"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "mv": 1,
+    "lc": 0
+   }
+  }
+ ]
+}
