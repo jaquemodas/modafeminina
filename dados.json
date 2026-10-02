@@ -64,5 +64,34 @@
    "cat": ""
   }
  ],
- "prods": []
+ "prods": [
+  {
+   "id": "pmurhr6t5",
+   "n": "Conjunto feminino alfaiataria",
+   "c": "c2",
+   "p": 49.99,
+   "pp": 89.99,
+   "d": "",
+   "m": "",
+   "ph": [
+    "fotos/murhriz9c3zu.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "lc": 0,
+    "mv": 1
+   },
+   "sz": {
+    "P": 8,
+    "M": 4,
+    "G": 5
+   },
+   "cl": [
+    "Vinho",
+    "amarelo",
+    "preto"
+   ]
+  }
+ ]
 }
